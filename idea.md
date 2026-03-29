@@ -57,3 +57,4 @@ Başarılı olursa öğrenci için karar verme süreci hızlanır ve daha net ha
 - staj ve etkinlik başvuruları daha kaliteli hale gelir.
 
 En büyük başarı ölçütü şu olur: Öğrenci uygulamaya girip birkaç dakika içinde kendisi için anlamlı, uygulanabilir ve kişiselleştirilmiş bir kariyer planı alabiliyor mu?
+
